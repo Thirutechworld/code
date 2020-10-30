@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="thirumuruganSuite" duration-ms="784" started-at="2020-10-02T12:50:57 IST" finished-at="2020-10-02T12:50:58 IST">
+    <groups>
+    </groups>
+    <test name="greenappTest" duration-ms="784" started-at="2020-10-02T12:50:57 IST" finished-at="2020-10-02T12:50:58 IST">
+      <class name="commonTestcase.Dms_log_test">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:commonTestcase.Dms_log_test@53f65459]" name="launchbrowser" is-config="true" duration-ms="7864" started-at="2020-10-02T12:50:49 IST" finished-at="2020-10-02T12:50:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="methodapp()[pri:0, instance:commonTestcase.Dms_log_test@53f65459]" name="methodapp" duration-ms="714" started-at="2020-10-02T12:50:57 IST" finished-at="2020-10-02T12:50:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodapp -->
+      </class> <!-- commonTestcase.Dms_log_test -->
+    </test> <!-- greenappTest -->
+  </suite> <!-- thirumuruganSuite -->
+</testng-results>
