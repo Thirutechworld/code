@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="seSuite" duration-ms="34534" started-at="2020-10-01T17:10:15 IST" finished-at="2020-10-01T17:10:49 IST">
+    <groups>
+    </groups>
+    <test name="dddTest" duration-ms="34534" started-at="2020-10-01T17:10:15 IST" finished-at="2020-10-01T17:10:49 IST">
+      <class name="test.loginpagetest">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:test.loginpagetest@56aac163]" name="initialise" is-config="true" duration-ms="22004" started-at="2020-10-01T17:10:15 IST" finished-at="2020-10-01T17:10:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test.loginpagetest@56aac163]" name="login" duration-ms="12450" started-at="2020-10-01T17:10:37 IST" finished-at="2020-10-01T17:10:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- test.loginpagetest -->
+    </test> <!-- dddTest -->
+  </suite> <!-- seSuite -->
+</testng-results>
